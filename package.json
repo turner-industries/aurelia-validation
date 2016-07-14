@@ -83,13 +83,13 @@
   },
   "aurelia": {
     "usedBy": [],
+    "build": {
+       "resources": [
+         "aurelia-validation/resources/en-US",
+         "aurelia-validation/validate-custom-attribute"
+       ]
+     },
     "documentation": {
-      "build": {
-         "resources": [
-           "aurelia-validation/resources/en-US",
-           "aurelia-validation/validate-custom-attribute"
-         ]
-       },
       "links": [
         {
           "rel": "license",
